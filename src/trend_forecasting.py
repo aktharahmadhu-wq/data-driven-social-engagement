@@ -10,7 +10,7 @@ class TrendForecaster:
         self.forecast_periods = forecast_periods
         self.forecasts = {}
 
-    def analyze_trends(self, df: pd.DataFrame, date_col: str = 'date', metric_col: str = 'engagement', group_col: str = 'topic') -> dict:
+    def analyze_trends(self, df: pd.DataFrame, date_col: str = 'week', metric_col: str = 'engagement_events', group_col: str = 'topic') -> dict:
         """Analyze historical trends and forecast future values."""
         df = df.copy()
         df[date_col] = pd.to_datetime(df[date_col])
