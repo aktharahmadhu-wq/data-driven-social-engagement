@@ -1,0 +1,10 @@
+file,column,type,description
+content_data.csv,content_id,string,Unique content identifier
+content_data.csv,engagement_rate,float,(likes+comments+shares+saves)/reach
+content_data.csv,retention_rate,float,Estimated audience retention from 0 to 1
+content_data.csv,viral_score,float,Synthetic demonstration virality score from 0 to 100
+comments_data.csv,comment_text,string,Synthetic comment text for NLP
+comments_data.csv,sentiment_label,category,"Positive, Neutral, Negative"
+comments_data.csv,relatability_label,category,Relatable or Neutral
+ab_testing_data.csv,variant,category,A/B experiment variant
+trend_data.csv,hashtag_mentions,integer,Synthetic weekly topic/hashtag mention count

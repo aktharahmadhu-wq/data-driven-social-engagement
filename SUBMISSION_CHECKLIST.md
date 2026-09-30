@@ -1,0 +1,22 @@
+# Final Submission Checklist
+
+- [x] Source code (src/ directory completed)
+- [x] Dataset (Extracted to data/raw/)
+- [x] NLP model (sentiment_analyzer.py)
+- [x] Virality model (virality_model.py)
+- [x] A/B testing (ab_testing.py)
+- [x] Recommendation engine (recommendation_engine.py)
+- [x] Trend forecasting (trend_forecasting.py)
+- [x] Dashboard (app.py)
+- [x] Strategy report (reports/strategy_report.md)
+- [x] Content series (data/raw/content_series.csv)
+- [x] Notebook (notebooks/exploratory_analysis.ipynb)
+- [x] Tests (tests/test_project.py)
+- [x] README (README.md)
+- [x] requirements.txt
+- [x] GitHub repository (Instructions in README)
+- [x] Streamlit deployment (Instructions in README)
+- [x] Google Drive ZIP (Data_Driven_Social_Engagement_Final.zip instructions provided)
+- [x] Screenshots (assets/screenshots/ directory created)
+- [x] PPT (reports/presentation_content.md)
+- [x] Viva preparation (reports/viva_questions.md)

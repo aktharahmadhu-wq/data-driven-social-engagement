@@ -1,0 +1,501 @@
+experiment_record_id,experiment_id,variant,format,hook_type,posting_time,topic,views,engagement_rate
+EXP-0001,AB-0001,B,Long,Text,Afternoon,Friendship,114503,0.0265
+EXP-0002,AB-0001,A,Short,Visual,Evening,Academic Pressure,65372,0.0536
+EXP-0003,AB-0002,A,Short,Visual,Evening,Social Anxiety,55930,0.0729
+EXP-0004,AB-0002,B,Long,Text,Afternoon,Social Anxiety,17333,0.036
+EXP-0005,AB-0003,B,Long,Text,Afternoon,Student Life,96329,0.0531
+EXP-0006,AB-0003,B,Long,Text,Afternoon,Productivity,36143,0.0461
+EXP-0007,AB-0004,B,Long,Text,Afternoon,Digital Burnout,100511,0.0317
+EXP-0008,AB-0004,A,Short,Visual,Evening,Academic Pressure,14285,0.0645
+EXP-0009,AB-0005,A,Short,Visual,Evening,Productivity,111780,0.0553
+EXP-0010,AB-0005,A,Short,Visual,Evening,Career Anxiety,27430,0.07
+EXP-0011,AB-0006,B,Long,Text,Afternoon,Student Life,133750,0.0444
+EXP-0012,AB-0006,B,Long,Text,Afternoon,Academic Pressure,117588,0.0333
+EXP-0013,AB-0007,A,Short,Visual,Evening,Digital Burnout,136869,0.0389
+EXP-0014,AB-0007,A,Short,Visual,Evening,Academic Pressure,15427,0.052
+EXP-0015,AB-0008,B,Long,Text,Afternoon,Career Anxiety,127972,0.0292
+EXP-0016,AB-0008,B,Long,Text,Afternoon,Student Life,58469,0.0458
+EXP-0017,AB-0009,B,Long,Text,Afternoon,Productivity,16706,0.0476
+EXP-0018,AB-0009,A,Short,Visual,Evening,Friendship,84517,0.0738
+EXP-0019,AB-0010,A,Short,Visual,Evening,Career Anxiety,113510,0.0466
+EXP-0020,AB-0010,A,Short,Visual,Evening,Academic Pressure,98280,0.0617
+EXP-0021,AB-0011,B,Long,Text,Afternoon,Productivity,89780,0.0448
+EXP-0022,AB-0011,A,Short,Visual,Evening,Social Anxiety,89309,0.0395
+EXP-0023,AB-0012,B,Long,Text,Afternoon,Productivity,101877,0.0368
+EXP-0024,AB-0012,A,Short,Visual,Evening,Academic Pressure,93698,0.0562
+EXP-0025,AB-0013,B,Long,Text,Afternoon,Digital Burnout,30028,0.0234
+EXP-0026,AB-0013,B,Long,Text,Afternoon,Student Life,105256,0.0435
+EXP-0027,AB-0014,A,Short,Visual,Evening,Dating,120581,0.0376
+EXP-0028,AB-0014,B,Long,Text,Afternoon,Student Life,21942,0.0566
+EXP-0029,AB-0015,A,Short,Visual,Evening,Productivity,123569,0.072
+EXP-0030,AB-0015,A,Short,Visual,Evening,Social Anxiety,128275,0.0599
+EXP-0031,AB-0016,B,Long,Text,Afternoon,Social Anxiety,111306,0.0355
+EXP-0032,AB-0016,B,Long,Text,Afternoon,Friendship,98761,0.0474
+EXP-0033,AB-0017,A,Short,Visual,Evening,Social Anxiety,135709,0.0508
+EXP-0034,AB-0017,A,Short,Visual,Evening,Digital Burnout,133409,0.0529
+EXP-0035,AB-0018,B,Long,Text,Afternoon,Digital Burnout,111712,0.0416
+EXP-0036,AB-0018,A,Short,Visual,Evening,Productivity,23714,0.0844
+EXP-0037,AB-0019,A,Short,Visual,Evening,Academic Pressure,53150,0.0583
+EXP-0038,AB-0019,A,Short,Visual,Evening,Digital Burnout,110209,0.0594
+EXP-0039,AB-0020,B,Long,Text,Afternoon,Career Anxiety,49191,0.0459
+EXP-0040,AB-0020,B,Long,Text,Afternoon,Friendship,105237,0.0615
+EXP-0041,AB-0021,A,Short,Visual,Evening,Dating,72602,0.0598
+EXP-0042,AB-0021,B,Long,Text,Afternoon,Student Life,65542,0.0456
+EXP-0043,AB-0022,B,Long,Text,Afternoon,Academic Pressure,128092,0.0413
+EXP-0044,AB-0022,B,Long,Text,Afternoon,Social Anxiety,146143,0.0312
+EXP-0045,AB-0023,A,Short,Visual,Evening,Friendship,147490,0.0711
+EXP-0046,AB-0023,B,Long,Text,Afternoon,Digital Burnout,11818,0.0421
+EXP-0047,AB-0024,A,Short,Visual,Evening,Dating,20482,0.0486
+EXP-0048,AB-0024,A,Short,Visual,Evening,Social Anxiety,106773,0.043
+EXP-0049,AB-0025,A,Short,Visual,Evening,Digital Burnout,20519,0.0566
+EXP-0050,AB-0025,B,Long,Text,Afternoon,Social Anxiety,21072,0.0345
+EXP-0051,AB-0026,B,Long,Text,Afternoon,Career Anxiety,95315,0.052
+EXP-0052,AB-0026,A,Short,Visual,Evening,Digital Burnout,12339,0.0566
+EXP-0053,AB-0027,B,Long,Text,Afternoon,Friendship,112176,0.0442
+EXP-0054,AB-0027,B,Long,Text,Afternoon,Student Life,55445,0.0336
+EXP-0055,AB-0028,A,Short,Visual,Evening,Academic Pressure,17079,0.051
+EXP-0056,AB-0028,A,Short,Visual,Evening,Academic Pressure,83020,0.0438
+EXP-0057,AB-0029,B,Long,Text,Afternoon,Career Anxiety,65086,0.0523
+EXP-0058,AB-0029,A,Short,Visual,Evening,Friendship,143100,0.0526
+EXP-0059,AB-0030,A,Short,Visual,Evening,Career Anxiety,13010,0.0362
+EXP-0060,AB-0030,B,Long,Text,Afternoon,Social Anxiety,49364,0.0399
+EXP-0061,AB-0031,A,Short,Visual,Evening,Academic Pressure,46008,0.0576
+EXP-0062,AB-0031,B,Long,Text,Afternoon,Productivity,44426,0.0571
+EXP-0063,AB-0032,A,Short,Visual,Evening,Digital Burnout,104026,0.0645
+EXP-0064,AB-0032,A,Short,Visual,Evening,Social Anxiety,129514,0.0578
+EXP-0065,AB-0033,A,Short,Visual,Evening,Career Anxiety,99367,0.0547
+EXP-0066,AB-0033,B,Long,Text,Afternoon,Student Life,81407,0.0564
+EXP-0067,AB-0034,A,Short,Visual,Evening,Student Life,87885,0.0475
+EXP-0068,AB-0034,A,Short,Visual,Evening,Digital Burnout,10346,0.0402
+EXP-0069,AB-0035,A,Short,Visual,Evening,Social Anxiety,87478,0.0734
+EXP-0070,AB-0035,B,Long,Text,Afternoon,Social Anxiety,18487,0.0465
+EXP-0071,AB-0036,B,Long,Text,Afternoon,Dating,12560,0.0441
+EXP-0072,AB-0036,B,Long,Text,Afternoon,Dating,57111,0.0521
+EXP-0073,AB-0037,B,Long,Text,Afternoon,Social Anxiety,92618,0.0396
+EXP-0074,AB-0037,A,Short,Visual,Evening,Career Anxiety,94113,0.0621
+EXP-0075,AB-0038,A,Short,Visual,Evening,Dating,66440,0.0468
+EXP-0076,AB-0038,A,Short,Visual,Evening,Friendship,119476,0.0467
+EXP-0077,AB-0039,B,Long,Text,Afternoon,Digital Burnout,94169,0.0537
+EXP-0078,AB-0039,A,Short,Visual,Evening,Productivity,61068,0.0718
+EXP-0079,AB-0040,A,Short,Visual,Evening,Friendship,134445,0.0613
+EXP-0080,AB-0040,B,Long,Text,Afternoon,Dating,130642,0.05
+EXP-0081,AB-0041,A,Short,Visual,Evening,Digital Burnout,125726,0.0579
+EXP-0082,AB-0041,B,Long,Text,Afternoon,Productivity,24224,0.0492
+EXP-0083,AB-0042,A,Short,Visual,Evening,Social Anxiety,60674,0.063
+EXP-0084,AB-0042,A,Short,Visual,Evening,Student Life,147095,0.0403
+EXP-0085,AB-0043,B,Long,Text,Afternoon,Academic Pressure,120565,0.0354
+EXP-0086,AB-0043,A,Short,Visual,Evening,Dating,119866,0.076
+EXP-0087,AB-0044,A,Short,Visual,Evening,Career Anxiety,76309,0.0339
+EXP-0088,AB-0044,B,Long,Text,Afternoon,Student Life,49793,0.0339
+EXP-0089,AB-0045,A,Short,Visual,Evening,Career Anxiety,75018,0.0381
+EXP-0090,AB-0045,B,Long,Text,Afternoon,Student Life,137635,0.0377
+EXP-0091,AB-0046,B,Long,Text,Afternoon,Social Anxiety,14183,0.054
+EXP-0092,AB-0046,A,Short,Visual,Evening,Digital Burnout,98845,0.0478
+EXP-0093,AB-0047,B,Long,Text,Afternoon,Friendship,108609,0.0357
+EXP-0094,AB-0047,B,Long,Text,Afternoon,Digital Burnout,11887,0.0563
+EXP-0095,AB-0048,A,Short,Visual,Evening,Digital Burnout,72352,0.0671
+EXP-0096,AB-0048,B,Long,Text,Afternoon,Dating,98212,0.0358
+EXP-0097,AB-0049,A,Short,Visual,Evening,Academic Pressure,20249,0.036
+EXP-0098,AB-0049,A,Short,Visual,Evening,Student Life,68736,0.0345
+EXP-0099,AB-0050,B,Long,Text,Afternoon,Digital Burnout,147079,0.0441
+EXP-0100,AB-0050,A,Short,Visual,Evening,Academic Pressure,136236,0.0455
+EXP-0101,AB-0051,B,Long,Text,Afternoon,Productivity,116517,0.0493
+EXP-0102,AB-0051,A,Short,Visual,Evening,Friendship,143427,0.0663
+EXP-0103,AB-0052,A,Short,Visual,Evening,Student Life,71212,0.0417
+EXP-0104,AB-0052,A,Short,Visual,Evening,Dating,72858,0.0287
+EXP-0105,AB-0053,B,Long,Text,Afternoon,Career Anxiety,143891,0.0448
+EXP-0106,AB-0053,B,Long,Text,Afternoon,Digital Burnout,80445,0.048
+EXP-0107,AB-0054,B,Long,Text,Afternoon,Productivity,58838,0.0536
+EXP-0108,AB-0054,A,Short,Visual,Evening,Dating,32739,0.0451
+EXP-0109,AB-0055,B,Long,Text,Afternoon,Academic Pressure,110497,0.0683
+EXP-0110,AB-0055,A,Short,Visual,Evening,Digital Burnout,94078,0.0339
+EXP-0111,AB-0056,B,Long,Text,Afternoon,Career Anxiety,90418,0.0365
+EXP-0112,AB-0056,A,Short,Visual,Evening,Student Life,45601,0.0707
+EXP-0113,AB-0057,B,Long,Text,Afternoon,Academic Pressure,90385,0.0424
+EXP-0114,AB-0057,B,Long,Text,Afternoon,Digital Burnout,76516,0.0296
+EXP-0115,AB-0058,B,Long,Text,Afternoon,Friendship,47088,0.0313
+EXP-0116,AB-0058,B,Long,Text,Afternoon,Productivity,149687,0.0649
+EXP-0117,AB-0059,A,Short,Visual,Evening,Dating,29100,0.0599
+EXP-0118,AB-0059,B,Long,Text,Afternoon,Digital Burnout,45244,0.0445
+EXP-0119,AB-0060,B,Long,Text,Afternoon,Dating,124489,0.0492
+EXP-0120,AB-0060,B,Long,Text,Afternoon,Dating,39546,0.0529
+EXP-0121,AB-0061,A,Short,Visual,Evening,Student Life,38104,0.0309
+EXP-0122,AB-0061,A,Short,Visual,Evening,Academic Pressure,75290,0.0531
+EXP-0123,AB-0062,A,Short,Visual,Evening,Digital Burnout,53518,0.0371
+EXP-0124,AB-0062,B,Long,Text,Afternoon,Academic Pressure,42538,0.0482
+EXP-0125,AB-0063,B,Long,Text,Afternoon,Productivity,115951,0.0386
+EXP-0126,AB-0063,B,Long,Text,Afternoon,Friendship,111294,0.0345
+EXP-0127,AB-0064,A,Short,Visual,Evening,Productivity,31542,0.0521
+EXP-0128,AB-0064,B,Long,Text,Afternoon,Digital Burnout,25361,0.0542
+EXP-0129,AB-0065,B,Long,Text,Afternoon,Productivity,106552,0.0722
+EXP-0130,AB-0065,B,Long,Text,Afternoon,Student Life,117739,0.0368
+EXP-0131,AB-0066,A,Short,Visual,Evening,Digital Burnout,15257,0.0571
+EXP-0132,AB-0066,B,Long,Text,Afternoon,Career Anxiety,66563,0.0462
+EXP-0133,AB-0067,B,Long,Text,Afternoon,Career Anxiety,92653,0.0343
+EXP-0134,AB-0067,A,Short,Visual,Evening,Friendship,82325,0.0469
+EXP-0135,AB-0068,A,Short,Visual,Evening,Career Anxiety,73843,0.0568
+EXP-0136,AB-0068,B,Long,Text,Afternoon,Social Anxiety,97783,0.0502
+EXP-0137,AB-0069,B,Long,Text,Afternoon,Digital Burnout,11118,0.0597
+EXP-0138,AB-0069,B,Long,Text,Afternoon,Productivity,102259,0.0462
+EXP-0139,AB-0070,A,Short,Visual,Evening,Student Life,114983,0.0641
+EXP-0140,AB-0070,B,Long,Text,Afternoon,Social Anxiety,124624,0.052
+EXP-0141,AB-0071,A,Short,Visual,Evening,Productivity,137308,0.0547
+EXP-0142,AB-0071,A,Short,Visual,Evening,Social Anxiety,16356,0.0543
+EXP-0143,AB-0072,A,Short,Visual,Evening,Academic Pressure,71428,0.0556
+EXP-0144,AB-0072,A,Short,Visual,Evening,Student Life,92328,0.0618
+EXP-0145,AB-0073,A,Short,Visual,Evening,Dating,18196,0.0636
+EXP-0146,AB-0073,A,Short,Visual,Evening,Dating,13091,0.0486
+EXP-0147,AB-0074,B,Long,Text,Afternoon,Productivity,14377,0.0539
+EXP-0148,AB-0074,A,Short,Visual,Evening,Digital Burnout,25341,0.0571
+EXP-0149,AB-0075,B,Long,Text,Afternoon,Career Anxiety,116973,0.0432
+EXP-0150,AB-0075,B,Long,Text,Afternoon,Social Anxiety,146140,0.0324
+EXP-0151,AB-0076,B,Long,Text,Afternoon,Career Anxiety,52220,0.0268
+EXP-0152,AB-0076,B,Long,Text,Afternoon,Academic Pressure,58528,0.0276
+EXP-0153,AB-0077,B,Long,Text,Afternoon,Academic Pressure,143728,0.0564
+EXP-0154,AB-0077,B,Long,Text,Afternoon,Productivity,138351,0.0395
+EXP-0155,AB-0078,A,Short,Visual,Evening,Career Anxiety,92720,0.0803
+EXP-0156,AB-0078,A,Short,Visual,Evening,Dating,103112,0.0822
+EXP-0157,AB-0079,B,Long,Text,Afternoon,Dating,20275,0.0568
+EXP-0158,AB-0079,B,Long,Text,Afternoon,Friendship,140852,0.0314
+EXP-0159,AB-0080,A,Short,Visual,Evening,Student Life,12561,0.0489
+EXP-0160,AB-0080,B,Long,Text,Afternoon,Career Anxiety,53761,0.059
+EXP-0161,AB-0081,B,Long,Text,Afternoon,Digital Burnout,48345,0.0495
+EXP-0162,AB-0081,B,Long,Text,Afternoon,Career Anxiety,48217,0.0391
+EXP-0163,AB-0082,A,Short,Visual,Evening,Friendship,123359,0.0532
+EXP-0164,AB-0082,A,Short,Visual,Evening,Academic Pressure,124437,0.0698
+EXP-0165,AB-0083,A,Short,Visual,Evening,Productivity,130624,0.0798
+EXP-0166,AB-0083,A,Short,Visual,Evening,Friendship,109702,0.0538
+EXP-0167,AB-0084,A,Short,Visual,Evening,Career Anxiety,118804,0.0499
+EXP-0168,AB-0084,A,Short,Visual,Evening,Student Life,136408,0.0494
+EXP-0169,AB-0085,B,Long,Text,Afternoon,Social Anxiety,83721,0.0383
+EXP-0170,AB-0085,A,Short,Visual,Evening,Student Life,59195,0.0551
+EXP-0171,AB-0086,A,Short,Visual,Evening,Dating,101138,0.0667
+EXP-0172,AB-0086,A,Short,Visual,Evening,Social Anxiety,54217,0.0501
+EXP-0173,AB-0087,B,Long,Text,Afternoon,Student Life,134906,0.0477
+EXP-0174,AB-0087,B,Long,Text,Afternoon,Digital Burnout,86458,0.0342
+EXP-0175,AB-0088,B,Long,Text,Afternoon,Productivity,29386,0.0346
+EXP-0176,AB-0088,B,Long,Text,Afternoon,Dating,66765,0.0525
+EXP-0177,AB-0089,B,Long,Text,Afternoon,Dating,42847,0.0489
+EXP-0178,AB-0089,A,Short,Visual,Evening,Productivity,60730,0.0333
+EXP-0179,AB-0090,B,Long,Text,Afternoon,Social Anxiety,107375,0.0386
+EXP-0180,AB-0090,B,Long,Text,Afternoon,Productivity,47177,0.0518
+EXP-0181,AB-0091,A,Short,Visual,Evening,Social Anxiety,136874,0.0389
+EXP-0182,AB-0091,B,Long,Text,Afternoon,Friendship,113853,0.065
+EXP-0183,AB-0092,A,Short,Visual,Evening,Academic Pressure,40096,0.0792
+EXP-0184,AB-0092,A,Short,Visual,Evening,Student Life,94845,0.0273
+EXP-0185,AB-0093,A,Short,Visual,Evening,Productivity,46387,0.0701
+EXP-0186,AB-0093,B,Long,Text,Afternoon,Social Anxiety,16025,0.0438
+EXP-0187,AB-0094,B,Long,Text,Afternoon,Student Life,140481,0.036
+EXP-0188,AB-0094,A,Short,Visual,Evening,Social Anxiety,58034,0.0466
+EXP-0189,AB-0095,B,Long,Text,Afternoon,Digital Burnout,114595,0.0354
+EXP-0190,AB-0095,B,Long,Text,Afternoon,Student Life,69043,0.0223
+EXP-0191,AB-0096,B,Long,Text,Afternoon,Digital Burnout,91224,0.031
+EXP-0192,AB-0096,A,Short,Visual,Evening,Career Anxiety,108966,0.0472
+EXP-0193,AB-0097,B,Long,Text,Afternoon,Social Anxiety,85078,0.0321
+EXP-0194,AB-0097,A,Short,Visual,Evening,Friendship,22085,0.0487
+EXP-0195,AB-0098,A,Short,Visual,Evening,Dating,49592,0.0671
+EXP-0196,AB-0098,B,Long,Text,Afternoon,Student Life,126311,0.0472
+EXP-0197,AB-0099,A,Short,Visual,Evening,Digital Burnout,122355,0.0511
+EXP-0198,AB-0099,A,Short,Visual,Evening,Friendship,64228,0.0469
+EXP-0199,AB-0100,A,Short,Visual,Evening,Career Anxiety,18388,0.0672
+EXP-0200,AB-0100,A,Short,Visual,Evening,Productivity,103689,0.0595
+EXP-0201,AB-0101,B,Long,Text,Afternoon,Academic Pressure,108703,0.0599
+EXP-0202,AB-0101,B,Long,Text,Afternoon,Digital Burnout,81640,0.0513
+EXP-0203,AB-0102,A,Short,Visual,Evening,Digital Burnout,107779,0.0572
+EXP-0204,AB-0102,B,Long,Text,Afternoon,Digital Burnout,106349,0.0326
+EXP-0205,AB-0103,B,Long,Text,Afternoon,Career Anxiety,98556,0.0397
+EXP-0206,AB-0103,A,Short,Visual,Evening,Student Life,43138,0.0546
+EXP-0207,AB-0104,A,Short,Visual,Evening,Social Anxiety,83933,0.0754
+EXP-0208,AB-0104,B,Long,Text,Afternoon,Career Anxiety,50856,0.0546
+EXP-0209,AB-0105,A,Short,Visual,Evening,Friendship,64523,0.0793
+EXP-0210,AB-0105,A,Short,Visual,Evening,Dating,142445,0.0616
+EXP-0211,AB-0106,B,Long,Text,Afternoon,Student Life,100896,0.0576
+EXP-0212,AB-0106,B,Long,Text,Afternoon,Dating,116542,0.0379
+EXP-0213,AB-0107,A,Short,Visual,Evening,Career Anxiety,125875,0.0538
+EXP-0214,AB-0107,A,Short,Visual,Evening,Student Life,145887,0.0606
+EXP-0215,AB-0108,A,Short,Visual,Evening,Productivity,13631,0.0472
+EXP-0216,AB-0108,B,Long,Text,Afternoon,Friendship,113646,0.0334
+EXP-0217,AB-0109,A,Short,Visual,Evening,Academic Pressure,16680,0.0656
+EXP-0218,AB-0109,A,Short,Visual,Evening,Productivity,29712,0.0594
+EXP-0219,AB-0110,A,Short,Visual,Evening,Academic Pressure,86092,0.0526
+EXP-0220,AB-0110,A,Short,Visual,Evening,Friendship,20253,0.0785
+EXP-0221,AB-0111,A,Short,Visual,Evening,Digital Burnout,52701,0.0535
+EXP-0222,AB-0111,B,Long,Text,Afternoon,Career Anxiety,95898,0.0315
+EXP-0223,AB-0112,A,Short,Visual,Evening,Social Anxiety,39866,0.0506
+EXP-0224,AB-0112,A,Short,Visual,Evening,Digital Burnout,77482,0.0618
+EXP-0225,AB-0113,A,Short,Visual,Evening,Friendship,27980,0.0483
+EXP-0226,AB-0113,B,Long,Text,Afternoon,Digital Burnout,145012,0.0279
+EXP-0227,AB-0114,B,Long,Text,Afternoon,Academic Pressure,131613,0.0429
+EXP-0228,AB-0114,A,Short,Visual,Evening,Friendship,20479,0.0608
+EXP-0229,AB-0115,B,Long,Text,Afternoon,Digital Burnout,119754,0.0526
+EXP-0230,AB-0115,A,Short,Visual,Evening,Productivity,47218,0.0682
+EXP-0231,AB-0116,B,Long,Text,Afternoon,Academic Pressure,77583,0.0507
+EXP-0232,AB-0116,B,Long,Text,Afternoon,Social Anxiety,136101,0.05
+EXP-0233,AB-0117,B,Long,Text,Afternoon,Digital Burnout,66215,0.0534
+EXP-0234,AB-0117,B,Long,Text,Afternoon,Career Anxiety,96451,0.0313
+EXP-0235,AB-0118,A,Short,Visual,Evening,Student Life,117393,0.0503
+EXP-0236,AB-0118,A,Short,Visual,Evening,Student Life,111674,0.0477
+EXP-0237,AB-0119,B,Long,Text,Afternoon,Friendship,107731,0.0494
+EXP-0238,AB-0119,A,Short,Visual,Evening,Career Anxiety,15991,0.07
+EXP-0239,AB-0120,A,Short,Visual,Evening,Friendship,70469,0.0561
+EXP-0240,AB-0120,B,Long,Text,Afternoon,Social Anxiety,66329,0.0609
+EXP-0241,AB-0121,B,Long,Text,Afternoon,Academic Pressure,61179,0.0471
+EXP-0242,AB-0121,A,Short,Visual,Evening,Dating,102672,0.0525
+EXP-0243,AB-0122,A,Short,Visual,Evening,Academic Pressure,94305,0.0509
+EXP-0244,AB-0122,A,Short,Visual,Evening,Academic Pressure,88132,0.0517
+EXP-0245,AB-0123,B,Long,Text,Afternoon,Career Anxiety,29644,0.0401
+EXP-0246,AB-0123,B,Long,Text,Afternoon,Dating,72827,0.0414
+EXP-0247,AB-0124,A,Short,Visual,Evening,Friendship,72917,0.0624
+EXP-0248,AB-0124,A,Short,Visual,Evening,Friendship,91314,0.0344
+EXP-0249,AB-0125,B,Long,Text,Afternoon,Friendship,102278,0.0555
+EXP-0250,AB-0125,B,Long,Text,Afternoon,Friendship,29605,0.0447
+EXP-0251,AB-0126,B,Long,Text,Afternoon,Productivity,14938,0.0338
+EXP-0252,AB-0126,B,Long,Text,Afternoon,Dating,16249,0.0245
+EXP-0253,AB-0127,A,Short,Visual,Evening,Career Anxiety,60866,0.0648
+EXP-0254,AB-0127,A,Short,Visual,Evening,Academic Pressure,124991,0.0606
+EXP-0255,AB-0128,A,Short,Visual,Evening,Dating,24270,0.0705
+EXP-0256,AB-0128,B,Long,Text,Afternoon,Digital Burnout,66473,0.0422
+EXP-0257,AB-0129,A,Short,Visual,Evening,Friendship,137877,0.0542
+EXP-0258,AB-0129,B,Long,Text,Afternoon,Student Life,33229,0.0426
+EXP-0259,AB-0130,B,Long,Text,Afternoon,Digital Burnout,76252,0.0376
+EXP-0260,AB-0130,A,Short,Visual,Evening,Student Life,62273,0.06
+EXP-0261,AB-0131,B,Long,Text,Afternoon,Student Life,38859,0.0357
+EXP-0262,AB-0131,B,Long,Text,Afternoon,Career Anxiety,66176,0.0402
+EXP-0263,AB-0132,B,Long,Text,Afternoon,Career Anxiety,11569,0.0669
+EXP-0264,AB-0132,B,Long,Text,Afternoon,Productivity,102069,0.0336
+EXP-0265,AB-0133,A,Short,Visual,Evening,Student Life,105005,0.029
+EXP-0266,AB-0133,B,Long,Text,Afternoon,Career Anxiety,128905,0.0477
+EXP-0267,AB-0134,A,Short,Visual,Evening,Student Life,69230,0.0666
+EXP-0268,AB-0134,B,Long,Text,Afternoon,Career Anxiety,73694,0.0552
+EXP-0269,AB-0135,A,Short,Visual,Evening,Dating,129604,0.0808
+EXP-0270,AB-0135,B,Long,Text,Afternoon,Career Anxiety,132773,0.0329
+EXP-0271,AB-0136,B,Long,Text,Afternoon,Career Anxiety,52020,0.0478
+EXP-0272,AB-0136,A,Short,Visual,Evening,Academic Pressure,59534,0.0503
+EXP-0273,AB-0137,B,Long,Text,Afternoon,Productivity,123292,0.0295
+EXP-0274,AB-0137,A,Short,Visual,Evening,Academic Pressure,93726,0.0799
+EXP-0275,AB-0138,B,Long,Text,Afternoon,Friendship,127279,0.0162
+EXP-0276,AB-0138,A,Short,Visual,Evening,Academic Pressure,81538,0.0496
+EXP-0277,AB-0139,A,Short,Visual,Evening,Career Anxiety,110147,0.063
+EXP-0278,AB-0139,B,Long,Text,Afternoon,Dating,25944,0.046
+EXP-0279,AB-0140,B,Long,Text,Afternoon,Digital Burnout,54888,0.0367
+EXP-0280,AB-0140,A,Short,Visual,Evening,Dating,119093,0.0415
+EXP-0281,AB-0141,A,Short,Visual,Evening,Digital Burnout,27579,0.0517
+EXP-0282,AB-0141,A,Short,Visual,Evening,Student Life,94133,0.0681
+EXP-0283,AB-0142,B,Long,Text,Afternoon,Career Anxiety,23524,0.0134
+EXP-0284,AB-0142,A,Short,Visual,Evening,Career Anxiety,68045,0.0603
+EXP-0285,AB-0143,A,Short,Visual,Evening,Productivity,68013,0.0405
+EXP-0286,AB-0143,B,Long,Text,Afternoon,Student Life,106585,0.0461
+EXP-0287,AB-0144,B,Long,Text,Afternoon,Friendship,119637,0.0504
+EXP-0288,AB-0144,B,Long,Text,Afternoon,Social Anxiety,70695,0.0673
+EXP-0289,AB-0145,A,Short,Visual,Evening,Career Anxiety,113883,0.0514
+EXP-0290,AB-0145,B,Long,Text,Afternoon,Social Anxiety,97499,0.0482
+EXP-0291,AB-0146,B,Long,Text,Afternoon,Digital Burnout,127831,0.0614
+EXP-0292,AB-0146,B,Long,Text,Afternoon,Productivity,145541,0.0463
+EXP-0293,AB-0147,B,Long,Text,Afternoon,Digital Burnout,75177,0.0488
+EXP-0294,AB-0147,A,Short,Visual,Evening,Digital Burnout,130616,0.0555
+EXP-0295,AB-0148,A,Short,Visual,Evening,Academic Pressure,36028,0.0635
+EXP-0296,AB-0148,B,Long,Text,Afternoon,Academic Pressure,57061,0.0375
+EXP-0297,AB-0149,B,Long,Text,Afternoon,Academic Pressure,90893,0.0313
+EXP-0298,AB-0149,B,Long,Text,Afternoon,Student Life,90893,0.0299
+EXP-0299,AB-0150,B,Long,Text,Afternoon,Dating,60682,0.0202
+EXP-0300,AB-0150,A,Short,Visual,Evening,Dating,80511,0.057
+EXP-0301,AB-0151,B,Long,Text,Afternoon,Dating,47066,0.0457
+EXP-0302,AB-0151,A,Short,Visual,Evening,Dating,112761,0.0706
+EXP-0303,AB-0152,A,Short,Visual,Evening,Dating,18310,0.0376
+EXP-0304,AB-0152,B,Long,Text,Afternoon,Productivity,34881,0.0452
+EXP-0305,AB-0153,A,Short,Visual,Evening,Dating,81359,0.0529
+EXP-0306,AB-0153,B,Long,Text,Afternoon,Friendship,102839,0.0597
+EXP-0307,AB-0154,A,Short,Visual,Evening,Career Anxiety,107874,0.0289
+EXP-0308,AB-0154,B,Long,Text,Afternoon,Dating,129755,0.0506
+EXP-0309,AB-0155,A,Short,Visual,Evening,Digital Burnout,63977,0.0553
+EXP-0310,AB-0155,A,Short,Visual,Evening,Social Anxiety,104287,0.0498
+EXP-0311,AB-0156,A,Short,Visual,Evening,Student Life,116108,0.0599
+EXP-0312,AB-0156,A,Short,Visual,Evening,Digital Burnout,97327,0.0606
+EXP-0313,AB-0157,B,Long,Text,Afternoon,Digital Burnout,79838,0.0293
+EXP-0314,AB-0157,B,Long,Text,Afternoon,Social Anxiety,24493,0.0401
+EXP-0315,AB-0158,A,Short,Visual,Evening,Digital Burnout,25080,0.0393
+EXP-0316,AB-0158,A,Short,Visual,Evening,Friendship,83029,0.0754
+EXP-0317,AB-0159,B,Long,Text,Afternoon,Career Anxiety,78862,0.0354
+EXP-0318,AB-0159,B,Long,Text,Afternoon,Digital Burnout,77338,0.0482
+EXP-0319,AB-0160,A,Short,Visual,Evening,Career Anxiety,80522,0.0442
+EXP-0320,AB-0160,B,Long,Text,Afternoon,Digital Burnout,23913,0.0325
+EXP-0321,AB-0161,A,Short,Visual,Evening,Social Anxiety,105662,0.0404
+EXP-0322,AB-0161,A,Short,Visual,Evening,Dating,136206,0.0482
+EXP-0323,AB-0162,A,Short,Visual,Evening,Academic Pressure,102519,0.0435
+EXP-0324,AB-0162,A,Short,Visual,Evening,Digital Burnout,91607,0.0431
+EXP-0325,AB-0163,A,Short,Visual,Evening,Career Anxiety,60673,0.0417
+EXP-0326,AB-0163,A,Short,Visual,Evening,Career Anxiety,86899,0.0361
+EXP-0327,AB-0164,A,Short,Visual,Evening,Dating,108661,0.0501
+EXP-0328,AB-0164,B,Long,Text,Afternoon,Career Anxiety,111377,0.05
+EXP-0329,AB-0165,B,Long,Text,Afternoon,Academic Pressure,58804,0.0435
+EXP-0330,AB-0165,B,Long,Text,Afternoon,Friendship,103595,0.0591
+EXP-0331,AB-0166,A,Short,Visual,Evening,Academic Pressure,17759,0.0499
+EXP-0332,AB-0166,A,Short,Visual,Evening,Productivity,42451,0.0414
+EXP-0333,AB-0167,B,Long,Text,Afternoon,Social Anxiety,23613,0.0421
+EXP-0334,AB-0167,A,Short,Visual,Evening,Digital Burnout,139500,0.0567
+EXP-0335,AB-0168,A,Short,Visual,Evening,Career Anxiety,72149,0.0612
+EXP-0336,AB-0168,A,Short,Visual,Evening,Digital Burnout,89244,0.0426
+EXP-0337,AB-0169,B,Long,Text,Afternoon,Digital Burnout,91575,0.0377
+EXP-0338,AB-0169,A,Short,Visual,Evening,Dating,43677,0.083
+EXP-0339,AB-0170,A,Short,Visual,Evening,Academic Pressure,93882,0.0535
+EXP-0340,AB-0170,A,Short,Visual,Evening,Social Anxiety,71793,0.0651
+EXP-0341,AB-0171,A,Short,Visual,Evening,Student Life,149760,0.0794
+EXP-0342,AB-0171,A,Short,Visual,Evening,Social Anxiety,11452,0.0484
+EXP-0343,AB-0172,B,Long,Text,Afternoon,Dating,89835,0.0585
+EXP-0344,AB-0172,B,Long,Text,Afternoon,Student Life,112008,0.005
+EXP-0345,AB-0173,A,Short,Visual,Evening,Student Life,57032,0.0549
+EXP-0346,AB-0173,A,Short,Visual,Evening,Digital Burnout,132624,0.07
+EXP-0347,AB-0174,B,Long,Text,Afternoon,Productivity,12048,0.0451
+EXP-0348,AB-0174,B,Long,Text,Afternoon,Student Life,78956,0.0438
+EXP-0349,AB-0175,B,Long,Text,Afternoon,Productivity,13303,0.0284
+EXP-0350,AB-0175,B,Long,Text,Afternoon,Academic Pressure,96611,0.011
+EXP-0351,AB-0176,A,Short,Visual,Evening,Productivity,20475,0.0715
+EXP-0352,AB-0176,A,Short,Visual,Evening,Digital Burnout,143190,0.0368
+EXP-0353,AB-0177,B,Long,Text,Afternoon,Academic Pressure,80453,0.0377
+EXP-0354,AB-0177,A,Short,Visual,Evening,Digital Burnout,73786,0.066
+EXP-0355,AB-0178,A,Short,Visual,Evening,Productivity,54637,0.0603
+EXP-0356,AB-0178,B,Long,Text,Afternoon,Student Life,117271,0.0425
+EXP-0357,AB-0179,A,Short,Visual,Evening,Student Life,138628,0.0358
+EXP-0358,AB-0179,B,Long,Text,Afternoon,Dating,34055,0.0233
+EXP-0359,AB-0180,B,Long,Text,Afternoon,Productivity,107442,0.0136
+EXP-0360,AB-0180,B,Long,Text,Afternoon,Student Life,141140,0.0392
+EXP-0361,AB-0181,A,Short,Visual,Evening,Digital Burnout,75533,0.0642
+EXP-0362,AB-0181,B,Long,Text,Afternoon,Student Life,61812,0.0447
+EXP-0363,AB-0182,B,Long,Text,Afternoon,Career Anxiety,48421,0.038
+EXP-0364,AB-0182,B,Long,Text,Afternoon,Friendship,135902,0.0412
+EXP-0365,AB-0183,B,Long,Text,Afternoon,Dating,79868,0.0317
+EXP-0366,AB-0183,A,Short,Visual,Evening,Friendship,147900,0.0725
+EXP-0367,AB-0184,B,Long,Text,Afternoon,Friendship,129986,0.0543
+EXP-0368,AB-0184,B,Long,Text,Afternoon,Social Anxiety,59911,0.0625
+EXP-0369,AB-0185,A,Short,Visual,Evening,Social Anxiety,71912,0.0555
+EXP-0370,AB-0185,B,Long,Text,Afternoon,Digital Burnout,99735,0.0395
+EXP-0371,AB-0186,A,Short,Visual,Evening,Friendship,61485,0.0559
+EXP-0372,AB-0186,B,Long,Text,Afternoon,Digital Burnout,113816,0.0125
+EXP-0373,AB-0187,B,Long,Text,Afternoon,Career Anxiety,31375,0.0338
+EXP-0374,AB-0187,B,Long,Text,Afternoon,Digital Burnout,116722,0.0349
+EXP-0375,AB-0188,A,Short,Visual,Evening,Digital Burnout,94207,0.0596
+EXP-0376,AB-0188,A,Short,Visual,Evening,Dating,98664,0.0536
+EXP-0377,AB-0189,B,Long,Text,Afternoon,Social Anxiety,144652,0.044
+EXP-0378,AB-0189,A,Short,Visual,Evening,Career Anxiety,109905,0.0539
+EXP-0379,AB-0190,B,Long,Text,Afternoon,Student Life,148092,0.0478
+EXP-0380,AB-0190,A,Short,Visual,Evening,Friendship,145056,0.0657
+EXP-0381,AB-0191,A,Short,Visual,Evening,Social Anxiety,52940,0.0663
+EXP-0382,AB-0191,A,Short,Visual,Evening,Friendship,125107,0.0657
+EXP-0383,AB-0192,A,Short,Visual,Evening,Social Anxiety,81234,0.0128
+EXP-0384,AB-0192,B,Long,Text,Afternoon,Digital Burnout,136100,0.0475
+EXP-0385,AB-0193,B,Long,Text,Afternoon,Academic Pressure,42575,0.0427
+EXP-0386,AB-0193,B,Long,Text,Afternoon,Academic Pressure,16303,0.0344
+EXP-0387,AB-0194,A,Short,Visual,Evening,Dating,113639,0.058
+EXP-0388,AB-0194,A,Short,Visual,Evening,Digital Burnout,12783,0.0491
+EXP-0389,AB-0195,B,Long,Text,Afternoon,Academic Pressure,55545,0.0336
+EXP-0390,AB-0195,A,Short,Visual,Evening,Academic Pressure,38122,0.0573
+EXP-0391,AB-0196,A,Short,Visual,Evening,Career Anxiety,141171,0.0858
+EXP-0392,AB-0196,A,Short,Visual,Evening,Academic Pressure,127496,0.0543
+EXP-0393,AB-0197,A,Short,Visual,Evening,Productivity,106473,0.0594
+EXP-0394,AB-0197,A,Short,Visual,Evening,Social Anxiety,94134,0.0663
+EXP-0395,AB-0198,B,Long,Text,Afternoon,Digital Burnout,113038,0.0231
+EXP-0396,AB-0198,A,Short,Visual,Evening,Digital Burnout,28052,0.0405
+EXP-0397,AB-0199,A,Short,Visual,Evening,Career Anxiety,129968,0.0676
+EXP-0398,AB-0199,B,Long,Text,Afternoon,Student Life,46555,0.0493
+EXP-0399,AB-0200,A,Short,Visual,Evening,Career Anxiety,18167,0.0543
+EXP-0400,AB-0200,A,Short,Visual,Evening,Friendship,32627,0.061
+EXP-0401,AB-0201,A,Short,Visual,Evening,Productivity,31192,0.0553
+EXP-0402,AB-0201,B,Long,Text,Afternoon,Academic Pressure,144426,0.0401
+EXP-0403,AB-0202,A,Short,Visual,Evening,Friendship,112166,0.0635
+EXP-0404,AB-0202,B,Long,Text,Afternoon,Academic Pressure,94704,0.051
+EXP-0405,AB-0203,A,Short,Visual,Evening,Social Anxiety,121145,0.0589
+EXP-0406,AB-0203,B,Long,Text,Afternoon,Friendship,25823,0.0676
+EXP-0407,AB-0204,B,Long,Text,Afternoon,Dating,148891,0.0261
+EXP-0408,AB-0204,A,Short,Visual,Evening,Dating,128093,0.0698
+EXP-0409,AB-0205,A,Short,Visual,Evening,Career Anxiety,113665,0.0538
+EXP-0410,AB-0205,B,Long,Text,Afternoon,Academic Pressure,125296,0.0501
+EXP-0411,AB-0206,A,Short,Visual,Evening,Digital Burnout,76571,0.066
+EXP-0412,AB-0206,B,Long,Text,Afternoon,Dating,122401,0.0457
+EXP-0413,AB-0207,A,Short,Visual,Evening,Productivity,34252,0.052
+EXP-0414,AB-0207,B,Long,Text,Afternoon,Digital Burnout,101114,0.0757
+EXP-0415,AB-0208,A,Short,Visual,Evening,Social Anxiety,77735,0.0681
+EXP-0416,AB-0208,B,Long,Text,Afternoon,Digital Burnout,54270,0.0405
+EXP-0417,AB-0209,A,Short,Visual,Evening,Student Life,129526,0.0376
+EXP-0418,AB-0209,A,Short,Visual,Evening,Friendship,145459,0.0282
+EXP-0419,AB-0210,A,Short,Visual,Evening,Productivity,70137,0.0697
+EXP-0420,AB-0210,A,Short,Visual,Evening,Academic Pressure,72734,0.0638
+EXP-0421,AB-0211,B,Long,Text,Afternoon,Academic Pressure,98771,0.0402
+EXP-0422,AB-0211,A,Short,Visual,Evening,Productivity,132661,0.0672
+EXP-0423,AB-0212,B,Long,Text,Afternoon,Friendship,144346,0.0507
+EXP-0424,AB-0212,B,Long,Text,Afternoon,Career Anxiety,24597,0.0374
+EXP-0425,AB-0213,B,Long,Text,Afternoon,Academic Pressure,117084,0.0512
+EXP-0426,AB-0213,A,Short,Visual,Evening,Friendship,33453,0.0494
+EXP-0427,AB-0214,B,Long,Text,Afternoon,Academic Pressure,27876,0.0461
+EXP-0428,AB-0214,B,Long,Text,Afternoon,Academic Pressure,67745,0.0318
+EXP-0429,AB-0215,A,Short,Visual,Evening,Digital Burnout,110430,0.062
+EXP-0430,AB-0215,B,Long,Text,Afternoon,Career Anxiety,86034,0.0333
+EXP-0431,AB-0216,B,Long,Text,Afternoon,Digital Burnout,70231,0.0463
+EXP-0432,AB-0216,B,Long,Text,Afternoon,Dating,10914,0.0433
+EXP-0433,AB-0217,B,Long,Text,Afternoon,Digital Burnout,31212,0.046
+EXP-0434,AB-0217,A,Short,Visual,Evening,Social Anxiety,145968,0.061
+EXP-0435,AB-0218,A,Short,Visual,Evening,Career Anxiety,90272,0.0521
+EXP-0436,AB-0218,A,Short,Visual,Evening,Dating,47332,0.0506
+EXP-0437,AB-0219,B,Long,Text,Afternoon,Friendship,95099,0.0505
+EXP-0438,AB-0219,B,Long,Text,Afternoon,Dating,14572,0.0445
+EXP-0439,AB-0220,B,Long,Text,Afternoon,Social Anxiety,35134,0.0526
+EXP-0440,AB-0220,B,Long,Text,Afternoon,Social Anxiety,92712,0.0485
+EXP-0441,AB-0221,B,Long,Text,Afternoon,Productivity,107371,0.0327
+EXP-0442,AB-0221,B,Long,Text,Afternoon,Career Anxiety,22438,0.0667
+EXP-0443,AB-0222,B,Long,Text,Afternoon,Friendship,51443,0.0423
+EXP-0444,AB-0222,B,Long,Text,Afternoon,Digital Burnout,83716,0.0429
+EXP-0445,AB-0223,A,Short,Visual,Evening,Student Life,80094,0.0498
+EXP-0446,AB-0223,A,Short,Visual,Evening,Digital Burnout,67818,0.0329
+EXP-0447,AB-0224,A,Short,Visual,Evening,Student Life,25569,0.034
+EXP-0448,AB-0224,A,Short,Visual,Evening,Friendship,29377,0.0549
+EXP-0449,AB-0225,A,Short,Visual,Evening,Digital Burnout,115843,0.0554
+EXP-0450,AB-0225,B,Long,Text,Afternoon,Dating,101604,0.0744
+EXP-0451,AB-0226,B,Long,Text,Afternoon,Productivity,98820,0.0283
+EXP-0452,AB-0226,A,Short,Visual,Evening,Career Anxiety,61151,0.0359
+EXP-0453,AB-0227,A,Short,Visual,Evening,Digital Burnout,99906,0.0388
+EXP-0454,AB-0227,A,Short,Visual,Evening,Student Life,43363,0.0437
+EXP-0455,AB-0228,A,Short,Visual,Evening,Digital Burnout,31824,0.0234
+EXP-0456,AB-0228,B,Long,Text,Afternoon,Dating,139459,0.0393
+EXP-0457,AB-0229,A,Short,Visual,Evening,Digital Burnout,58220,0.0282
+EXP-0458,AB-0229,A,Short,Visual,Evening,Dating,137036,0.0603
+EXP-0459,AB-0230,A,Short,Visual,Evening,Student Life,68932,0.0575
+EXP-0460,AB-0230,A,Short,Visual,Evening,Friendship,67077,0.0828
+EXP-0461,AB-0231,A,Short,Visual,Evening,Career Anxiety,73241,0.038
+EXP-0462,AB-0231,B,Long,Text,Afternoon,Career Anxiety,110858,0.0645
+EXP-0463,AB-0232,B,Long,Text,Afternoon,Digital Burnout,104019,0.0401
+EXP-0464,AB-0232,A,Short,Visual,Evening,Social Anxiety,23975,0.0674
+EXP-0465,AB-0233,B,Long,Text,Afternoon,Academic Pressure,123916,0.0269
+EXP-0466,AB-0233,A,Short,Visual,Evening,Academic Pressure,121354,0.0372
+EXP-0467,AB-0234,A,Short,Visual,Evening,Student Life,118366,0.0351
+EXP-0468,AB-0234,A,Short,Visual,Evening,Academic Pressure,21186,0.0474
+EXP-0469,AB-0235,A,Short,Visual,Evening,Productivity,132845,0.0584
+EXP-0470,AB-0235,A,Short,Visual,Evening,Dating,12677,0.0636
+EXP-0471,AB-0236,A,Short,Visual,Evening,Academic Pressure,61962,0.0491
+EXP-0472,AB-0236,A,Short,Visual,Evening,Friendship,31760,0.051
+EXP-0473,AB-0237,A,Short,Visual,Evening,Digital Burnout,120547,0.0667
+EXP-0474,AB-0237,A,Short,Visual,Evening,Productivity,21151,0.0655
+EXP-0475,AB-0238,A,Short,Visual,Evening,Digital Burnout,145360,0.0515
+EXP-0476,AB-0238,B,Long,Text,Afternoon,Student Life,80023,0.0518
+EXP-0477,AB-0239,B,Long,Text,Afternoon,Academic Pressure,89635,0.048
+EXP-0478,AB-0239,B,Long,Text,Afternoon,Dating,65236,0.0574
+EXP-0479,AB-0240,B,Long,Text,Afternoon,Productivity,56696,0.053
+EXP-0480,AB-0240,B,Long,Text,Afternoon,Student Life,109846,0.0479
+EXP-0481,AB-0241,B,Long,Text,Afternoon,Dating,97614,0.0388
+EXP-0482,AB-0241,A,Short,Visual,Evening,Social Anxiety,76394,0.0485
+EXP-0483,AB-0242,A,Short,Visual,Evening,Productivity,23145,0.074
+EXP-0484,AB-0242,B,Long,Text,Afternoon,Productivity,16711,0.0438
+EXP-0485,AB-0243,A,Short,Visual,Evening,Digital Burnout,17061,0.0698
+EXP-0486,AB-0243,A,Short,Visual,Evening,Productivity,118157,0.0586
+EXP-0487,AB-0244,A,Short,Visual,Evening,Student Life,28056,0.0581
+EXP-0488,AB-0244,A,Short,Visual,Evening,Productivity,138728,0.065
+EXP-0489,AB-0245,A,Short,Visual,Evening,Academic Pressure,121778,0.0418
+EXP-0490,AB-0245,B,Long,Text,Afternoon,Career Anxiety,95173,0.0212
+EXP-0491,AB-0246,B,Long,Text,Afternoon,Digital Burnout,107056,0.0271
+EXP-0492,AB-0246,B,Long,Text,Afternoon,Student Life,128042,0.0505
+EXP-0493,AB-0247,B,Long,Text,Afternoon,Career Anxiety,38053,0.0366
+EXP-0494,AB-0247,A,Short,Visual,Evening,Dating,35719,0.0571
+EXP-0495,AB-0248,B,Long,Text,Afternoon,Digital Burnout,24884,0.0395
+EXP-0496,AB-0248,A,Short,Visual,Evening,Academic Pressure,116350,0.0568
+EXP-0497,AB-0249,B,Long,Text,Afternoon,Digital Burnout,99416,0.0354
+EXP-0498,AB-0249,B,Long,Text,Afternoon,Dating,56730,0.0337
+EXP-0499,AB-0250,B,Long,Text,Afternoon,Career Anxiety,139707,0.0357
+EXP-0500,AB-0250,A,Short,Visual,Evening,Social Anxiety,112939,0.0529

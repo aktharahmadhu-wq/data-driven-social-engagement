@@ -1,0 +1,9 @@
+.env
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+models/*.pkl
+data-driven-social.db
+data/processed/*.csv

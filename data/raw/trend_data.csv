@@ -1,0 +1,417 @@
+week,topic,hashtag_mentions,engagement_events
+2025-01-05,Social Anxiety,509,87
+2025-01-05,Academic Pressure,436,75
+2025-01-05,Student Life,475,64
+2025-01-05,Productivity,508,127
+2025-01-05,Friendship,489,58
+2025-01-05,Career Anxiety,621,136
+2025-01-05,Dating,616,110
+2025-01-05,Digital Burnout,440,61
+2025-01-12,Social Anxiety,595,139
+2025-01-12,Academic Pressure,436,28
+2025-01-12,Student Life,503,72
+2025-01-12,Productivity,447,75
+2025-01-12,Friendship,537,81
+2025-01-12,Career Anxiety,523,91
+2025-01-12,Dating,320,68
+2025-01-12,Digital Burnout,473,59
+2025-01-19,Social Anxiety,449,84
+2025-01-19,Academic Pressure,519,106
+2025-01-19,Student Life,542,74
+2025-01-19,Productivity,271,51
+2025-01-19,Friendship,557,96
+2025-01-19,Career Anxiety,572,82
+2025-01-19,Dating,479,67
+2025-01-19,Digital Burnout,570,84
+2025-01-26,Social Anxiety,674,111
+2025-01-26,Academic Pressure,584,95
+2025-01-26,Student Life,617,137
+2025-01-26,Productivity,484,92
+2025-01-26,Friendship,612,116
+2025-01-26,Career Anxiety,454,83
+2025-01-26,Dating,450,84
+2025-01-26,Digital Burnout,457,89
+2025-02-02,Social Anxiety,369,43
+2025-02-02,Academic Pressure,462,79
+2025-02-02,Student Life,391,52
+2025-02-02,Productivity,574,121
+2025-02-02,Friendship,310,44
+2025-02-02,Career Anxiety,637,122
+2025-02-02,Dating,545,109
+2025-02-02,Digital Burnout,449,85
+2025-02-09,Social Anxiety,552,101
+2025-02-09,Academic Pressure,498,88
+2025-02-09,Student Life,423,88
+2025-02-09,Productivity,400,55
+2025-02-09,Friendship,569,108
+2025-02-09,Career Anxiety,504,56
+2025-02-09,Dating,511,79
+2025-02-09,Digital Burnout,570,92
+2025-02-16,Social Anxiety,377,40
+2025-02-16,Academic Pressure,499,91
+2025-02-16,Student Life,424,61
+2025-02-16,Productivity,580,126
+2025-02-16,Friendship,539,91
+2025-02-16,Career Anxiety,501,100
+2025-02-16,Dating,492,106
+2025-02-16,Digital Burnout,616,119
+2025-02-23,Social Anxiety,479,77
+2025-02-23,Academic Pressure,405,71
+2025-02-23,Student Life,512,64
+2025-02-23,Productivity,708,138
+2025-02-23,Friendship,452,122
+2025-02-23,Career Anxiety,519,110
+2025-02-23,Dating,526,85
+2025-02-23,Digital Burnout,517,121
+2025-03-02,Social Anxiety,591,103
+2025-03-02,Academic Pressure,374,73
+2025-03-02,Student Life,421,86
+2025-03-02,Productivity,463,71
+2025-03-02,Friendship,469,104
+2025-03-02,Career Anxiety,425,91
+2025-03-02,Dating,548,97
+2025-03-02,Digital Burnout,514,102
+2025-03-09,Social Anxiety,487,78
+2025-03-09,Academic Pressure,544,132
+2025-03-09,Student Life,401,82
+2025-03-09,Productivity,511,87
+2025-03-09,Friendship,400,36
+2025-03-09,Career Anxiety,601,82
+2025-03-09,Dating,603,88
+2025-03-09,Digital Burnout,599,96
+2025-03-16,Social Anxiety,473,66
+2025-03-16,Academic Pressure,574,117
+2025-03-16,Student Life,498,101
+2025-03-16,Productivity,524,67
+2025-03-16,Friendship,553,93
+2025-03-16,Career Anxiety,373,59
+2025-03-16,Dating,388,45
+2025-03-16,Digital Burnout,541,95
+2025-03-23,Social Anxiety,457,92
+2025-03-23,Academic Pressure,529,86
+2025-03-23,Student Life,527,118
+2025-03-23,Productivity,352,89
+2025-03-23,Friendship,475,69
+2025-03-23,Career Anxiety,557,82
+2025-03-23,Dating,441,96
+2025-03-23,Digital Burnout,580,66
+2025-03-30,Social Anxiety,578,114
+2025-03-30,Academic Pressure,418,78
+2025-03-30,Student Life,574,71
+2025-03-30,Productivity,547,84
+2025-03-30,Friendship,568,83
+2025-03-30,Career Anxiety,681,117
+2025-03-30,Dating,475,71
+2025-03-30,Digital Burnout,643,101
+2025-04-06,Social Anxiety,609,113
+2025-04-06,Academic Pressure,423,76
+2025-04-06,Student Life,528,66
+2025-04-06,Productivity,525,105
+2025-04-06,Friendship,615,132
+2025-04-06,Career Anxiety,796,143
+2025-04-06,Dating,569,90
+2025-04-06,Digital Burnout,729,113
+2025-04-13,Social Anxiety,671,154
+2025-04-13,Academic Pressure,467,104
+2025-04-13,Student Life,561,92
+2025-04-13,Productivity,513,97
+2025-04-13,Friendship,553,129
+2025-04-13,Career Anxiety,659,103
+2025-04-13,Dating,584,70
+2025-04-13,Digital Burnout,554,93
+2025-04-20,Social Anxiety,576,139
+2025-04-20,Academic Pressure,543,90
+2025-04-20,Student Life,468,100
+2025-04-20,Productivity,508,81
+2025-04-20,Friendship,600,131
+2025-04-20,Career Anxiety,544,67
+2025-04-20,Dating,516,70
+2025-04-20,Digital Burnout,488,67
+2025-04-27,Social Anxiety,607,122
+2025-04-27,Academic Pressure,717,116
+2025-04-27,Student Life,629,123
+2025-04-27,Productivity,478,83
+2025-04-27,Friendship,478,91
+2025-04-27,Career Anxiety,707,119
+2025-04-27,Dating,591,131
+2025-04-27,Digital Burnout,716,105
+2025-05-04,Social Anxiety,518,107
+2025-05-04,Academic Pressure,428,50
+2025-05-04,Student Life,520,85
+2025-05-04,Productivity,508,82
+2025-05-04,Friendship,694,115
+2025-05-04,Career Anxiety,683,133
+2025-05-04,Dating,387,98
+2025-05-04,Digital Burnout,652,120
+2025-05-11,Social Anxiety,605,107
+2025-05-11,Academic Pressure,580,66
+2025-05-11,Student Life,586,109
+2025-05-11,Productivity,536,79
+2025-05-11,Friendship,503,85
+2025-05-11,Career Anxiety,553,106
+2025-05-11,Dating,646,87
+2025-05-11,Digital Burnout,647,108
+2025-05-18,Social Anxiety,476,87
+2025-05-18,Academic Pressure,511,95
+2025-05-18,Student Life,428,98
+2025-05-18,Productivity,525,106
+2025-05-18,Friendship,616,72
+2025-05-18,Career Anxiety,702,123
+2025-05-18,Dating,600,91
+2025-05-18,Digital Burnout,688,102
+2025-05-25,Social Anxiety,549,104
+2025-05-25,Academic Pressure,485,66
+2025-05-25,Student Life,487,106
+2025-05-25,Productivity,635,153
+2025-05-25,Friendship,559,105
+2025-05-25,Career Anxiety,695,163
+2025-05-25,Dating,558,102
+2025-05-25,Digital Burnout,597,104
+2025-06-01,Social Anxiety,545,83
+2025-06-01,Academic Pressure,441,78
+2025-06-01,Student Life,478,97
+2025-06-01,Productivity,568,107
+2025-06-01,Friendship,553,101
+2025-06-01,Career Anxiety,364,48
+2025-06-01,Dating,571,86
+2025-06-01,Digital Burnout,694,143
+2025-06-08,Social Anxiety,490,76
+2025-06-08,Academic Pressure,486,86
+2025-06-08,Student Life,562,54
+2025-06-08,Productivity,453,61
+2025-06-08,Friendship,310,45
+2025-06-08,Career Anxiety,555,92
+2025-06-08,Dating,473,94
+2025-06-08,Digital Burnout,611,76
+2025-06-15,Social Anxiety,537,145
+2025-06-15,Academic Pressure,565,115
+2025-06-15,Student Life,493,78
+2025-06-15,Productivity,464,88
+2025-06-15,Friendship,418,79
+2025-06-15,Career Anxiety,630,79
+2025-06-15,Dating,455,106
+2025-06-15,Digital Burnout,648,45
+2025-06-22,Social Anxiety,452,99
+2025-06-22,Academic Pressure,450,91
+2025-06-22,Student Life,475,89
+2025-06-22,Productivity,509,78
+2025-06-22,Friendship,552,129
+2025-06-22,Career Anxiety,721,131
+2025-06-22,Dating,439,97
+2025-06-22,Digital Burnout,602,119
+2025-06-29,Social Anxiety,564,121
+2025-06-29,Academic Pressure,550,118
+2025-06-29,Student Life,403,55
+2025-06-29,Productivity,394,42
+2025-06-29,Friendship,625,92
+2025-06-29,Career Anxiety,608,108
+2025-06-29,Dating,444,125
+2025-06-29,Digital Burnout,627,121
+2025-07-06,Social Anxiety,438,45
+2025-07-06,Academic Pressure,408,59
+2025-07-06,Student Life,443,47
+2025-07-06,Productivity,511,85
+2025-07-06,Friendship,377,69
+2025-07-06,Career Anxiety,767,162
+2025-07-06,Dating,307,40
+2025-07-06,Digital Burnout,545,85
+2025-07-13,Social Anxiety,609,95
+2025-07-13,Academic Pressure,425,59
+2025-07-13,Student Life,628,67
+2025-07-13,Productivity,453,64
+2025-07-13,Friendship,360,86
+2025-07-13,Career Anxiety,570,93
+2025-07-13,Dating,491,73
+2025-07-13,Digital Burnout,522,90
+2025-07-20,Social Anxiety,434,94
+2025-07-20,Academic Pressure,502,129
+2025-07-20,Student Life,504,102
+2025-07-20,Productivity,466,118
+2025-07-20,Friendship,496,87
+2025-07-20,Career Anxiety,765,124
+2025-07-20,Dating,455,92
+2025-07-20,Digital Burnout,725,142
+2025-07-27,Social Anxiety,485,92
+2025-07-27,Academic Pressure,537,74
+2025-07-27,Student Life,492,30
+2025-07-27,Productivity,551,83
+2025-07-27,Friendship,431,75
+2025-07-27,Career Anxiety,779,188
+2025-07-27,Dating,368,49
+2025-07-27,Digital Burnout,690,109
+2025-08-03,Social Anxiety,556,96
+2025-08-03,Academic Pressure,530,90
+2025-08-03,Student Life,533,76
+2025-08-03,Productivity,644,81
+2025-08-03,Friendship,433,49
+2025-08-03,Career Anxiety,801,154
+2025-08-03,Dating,392,90
+2025-08-03,Digital Burnout,622,119
+2025-08-10,Social Anxiety,536,91
+2025-08-10,Academic Pressure,533,93
+2025-08-10,Student Life,514,87
+2025-08-10,Productivity,337,58
+2025-08-10,Friendship,417,102
+2025-08-10,Career Anxiety,636,138
+2025-08-10,Dating,472,93
+2025-08-10,Digital Burnout,573,96
+2025-08-17,Social Anxiety,431,119
+2025-08-17,Academic Pressure,407,96
+2025-08-17,Student Life,578,126
+2025-08-17,Productivity,437,114
+2025-08-17,Friendship,645,123
+2025-08-17,Career Anxiety,716,111
+2025-08-17,Dating,522,95
+2025-08-17,Digital Burnout,704,99
+2025-08-24,Social Anxiety,485,110
+2025-08-24,Academic Pressure,530,87
+2025-08-24,Student Life,473,55
+2025-08-24,Productivity,429,70
+2025-08-24,Friendship,533,81
+2025-08-24,Career Anxiety,678,137
+2025-08-24,Dating,448,63
+2025-08-24,Digital Burnout,760,145
+2025-08-31,Social Anxiety,463,76
+2025-08-31,Academic Pressure,498,100
+2025-08-31,Student Life,497,91
+2025-08-31,Productivity,432,66
+2025-08-31,Friendship,466,64
+2025-08-31,Career Anxiety,682,120
+2025-08-31,Dating,559,59
+2025-08-31,Digital Burnout,670,126
+2025-09-07,Social Anxiety,564,137
+2025-09-07,Academic Pressure,452,120
+2025-09-07,Student Life,515,108
+2025-09-07,Productivity,393,79
+2025-09-07,Friendship,550,85
+2025-09-07,Career Anxiety,568,105
+2025-09-07,Dating,461,109
+2025-09-07,Digital Burnout,664,105
+2025-09-14,Social Anxiety,383,56
+2025-09-14,Academic Pressure,690,92
+2025-09-14,Student Life,370,65
+2025-09-14,Productivity,635,129
+2025-09-14,Friendship,601,100
+2025-09-14,Career Anxiety,673,112
+2025-09-14,Dating,467,84
+2025-09-14,Digital Burnout,696,137
+2025-09-21,Social Anxiety,419,56
+2025-09-21,Academic Pressure,386,73
+2025-09-21,Student Life,484,108
+2025-09-21,Productivity,600,83
+2025-09-21,Friendship,478,81
+2025-09-21,Career Anxiety,669,109
+2025-09-21,Dating,601,95
+2025-09-21,Digital Burnout,655,116
+2025-09-28,Social Anxiety,548,92
+2025-09-28,Academic Pressure,499,44
+2025-09-28,Student Life,521,98
+2025-09-28,Productivity,546,60
+2025-09-28,Friendship,451,100
+2025-09-28,Career Anxiety,755,136
+2025-09-28,Dating,442,71
+2025-09-28,Digital Burnout,818,118
+2025-10-05,Social Anxiety,471,89
+2025-10-05,Academic Pressure,569,99
+2025-10-05,Student Life,552,98
+2025-10-05,Productivity,484,88
+2025-10-05,Friendship,527,105
+2025-10-05,Career Anxiety,718,133
+2025-10-05,Dating,518,122
+2025-10-05,Digital Burnout,650,127
+2025-10-12,Social Anxiety,447,84
+2025-10-12,Academic Pressure,415,74
+2025-10-12,Student Life,500,70
+2025-10-12,Productivity,590,75
+2025-10-12,Friendship,518,44
+2025-10-12,Career Anxiety,795,152
+2025-10-12,Dating,532,93
+2025-10-12,Digital Burnout,717,140
+2025-10-19,Social Anxiety,551,126
+2025-10-19,Academic Pressure,404,68
+2025-10-19,Student Life,299,26
+2025-10-19,Productivity,418,92
+2025-10-19,Friendship,436,72
+2025-10-19,Career Anxiety,847,139
+2025-10-19,Dating,315,41
+2025-10-19,Digital Burnout,732,141
+2025-10-26,Social Anxiety,459,91
+2025-10-26,Academic Pressure,587,128
+2025-10-26,Student Life,489,65
+2025-10-26,Productivity,376,44
+2025-10-26,Friendship,389,72
+2025-10-26,Career Anxiety,982,180
+2025-10-26,Dating,469,103
+2025-10-26,Digital Burnout,682,143
+2025-11-02,Social Anxiety,554,100
+2025-11-02,Academic Pressure,686,145
+2025-11-02,Student Life,480,83
+2025-11-02,Productivity,442,76
+2025-11-02,Friendship,468,77
+2025-11-02,Career Anxiety,821,123
+2025-11-02,Dating,431,45
+2025-11-02,Digital Burnout,787,143
+2025-11-09,Social Anxiety,468,101
+2025-11-09,Academic Pressure,455,67
+2025-11-09,Student Life,359,85
+2025-11-09,Productivity,526,121
+2025-11-09,Friendship,604,100
+2025-11-09,Career Anxiety,789,106
+2025-11-09,Dating,390,63
+2025-11-09,Digital Burnout,595,85
+2025-11-16,Social Anxiety,472,102
+2025-11-16,Academic Pressure,471,87
+2025-11-16,Student Life,628,76
+2025-11-16,Productivity,566,109
+2025-11-16,Friendship,580,123
+2025-11-16,Career Anxiety,801,144
+2025-11-16,Dating,362,54
+2025-11-16,Digital Burnout,768,144
+2025-11-23,Social Anxiety,544,129
+2025-11-23,Academic Pressure,497,112
+2025-11-23,Student Life,502,64
+2025-11-23,Productivity,469,86
+2025-11-23,Friendship,414,53
+2025-11-23,Career Anxiety,776,128
+2025-11-23,Dating,412,98
+2025-11-23,Digital Burnout,575,105
+2025-11-30,Social Anxiety,525,75
+2025-11-30,Academic Pressure,517,86
+2025-11-30,Student Life,477,99
+2025-11-30,Productivity,529,83
+2025-11-30,Friendship,362,68
+2025-11-30,Career Anxiety,817,136
+2025-11-30,Dating,501,81
+2025-11-30,Digital Burnout,802,194
+2025-12-07,Social Anxiety,540,124
+2025-12-07,Academic Pressure,579,105
+2025-12-07,Student Life,527,104
+2025-12-07,Productivity,554,100
+2025-12-07,Friendship,380,39
+2025-12-07,Career Anxiety,914,141
+2025-12-07,Dating,540,123
+2025-12-07,Digital Burnout,765,161
+2025-12-14,Social Anxiety,508,91
+2025-12-14,Academic Pressure,545,81
+2025-12-14,Student Life,411,41
+2025-12-14,Productivity,429,120
+2025-12-14,Friendship,368,42
+2025-12-14,Career Anxiety,821,132
+2025-12-14,Dating,509,79
+2025-12-14,Digital Burnout,773,122
+2025-12-21,Social Anxiety,452,80
+2025-12-21,Academic Pressure,529,134
+2025-12-21,Student Life,488,83
+2025-12-21,Productivity,290,56
+2025-12-21,Friendship,332,70
+2025-12-21,Career Anxiety,904,178
+2025-12-21,Dating,439,79
+2025-12-21,Digital Burnout,849,134
+2025-12-28,Social Anxiety,542,108
+2025-12-28,Academic Pressure,528,126
+2025-12-28,Student Life,534,62
+2025-12-28,Productivity,572,89
+2025-12-28,Friendship,557,106
+2025-12-28,Career Anxiety,689,136
+2025-12-28,Dating,475,76
+2025-12-28,Digital Burnout,767,153
